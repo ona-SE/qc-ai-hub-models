@@ -1,4 +1,4 @@
-Pillow>10,<12
+Pillow>=12.1.1,<13 # CVE-2026-25990: OOB write in PSD loader; fixed in 12.1.1
 numpydoc==1.9.0
 gdown==4.7.1
 gitpython==3.1.42
